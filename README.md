@@ -1,4 +1,4 @@
-#SQL for Data Analysis - with SQL Server
+# SQL for Data Analysis - with SQL Server
 
 ![Screenshot of code](http://imageshack.com/a/img922/3381/huZ4uY.png)
 
@@ -8,6 +8,4 @@
 
 ## Link To Course
 
-See the [SQL for Data Analysis - with SQL Server]( https://www.udemy.com/course/sql-basics-crash-course-with-sql-server/) on Udemy.
-
-
+See the [SQL for Data Analysis - with SQL Server](https://www.udemy.com/course/sql-basics-crash-course-with-sql-server/) on Udemy.
